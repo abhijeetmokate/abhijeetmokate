@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhijeetmokate
 - 👀 I’m interested in development
-- 🌱 I’m currently learning batchelor of engineering
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on any new technology
 - 📫 How to reach me - mail @ 1abhijeetmokate@gmail.com
 
